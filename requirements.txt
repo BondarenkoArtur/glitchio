@@ -1,2 +1,4 @@
 Flask
 PyTelegramBotAPI
+dataset
+jsonpickle
